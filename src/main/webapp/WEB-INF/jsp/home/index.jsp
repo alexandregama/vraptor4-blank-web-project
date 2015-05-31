@@ -8,6 +8,6 @@
 	<title>VRaptor 4 Blank Hibernate Project</title>
 </head>
 <body>
-	VRaptor4 is working with all required dependencies\o/\o/ <br/><br/>
+	${message} <br/><br/>
 </body>
 </html>
